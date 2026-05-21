@@ -18,7 +18,7 @@ export const Route = createFileRoute("/architecture")({
 });
 
 const STACK = [
-  { icon: Monitor, t: "TanStack Start frontend", d: "Single-message form, live pipeline view, results dashboard." },
+  { icon: Monitor, t: "Next.js frontend", d: "Single-message form, live pipeline view, results dashboard." },
   { icon: Server, t: "FastAPI backend", d: "Stateless request orchestration. Raw text never leaves the request scope." },
   { icon: ScanSearch, t: "Presidio + regex detection", d: "Entity recognition for NAME, EMAIL, PHONE, LOCATION + custom IDs." },
   { icon: EyeOff, t: "Masking layer", d: "Stable, numbered placeholders preserve referential structure." },

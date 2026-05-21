@@ -43,7 +43,7 @@ export function SiteFooter() {
       </div>
       <div className="border-t border-hairline">
         <div className="mx-auto max-w-7xl px-6 py-5 flex flex-wrap items-center justify-between gap-3 text-xs font-mono text-muted-foreground/70">
-          <span>Built with TanStack Start, FastAPI, Presidio, PostgreSQL.</span>
+          <span>Built with Next.js, FastAPI, Presidio, PostgreSQL.</span>
           <span className="flex items-center gap-2">
             <span className="h-1.5 w-1.5 rounded-full bg-privacy animate-pulse" />
             PII shield active
